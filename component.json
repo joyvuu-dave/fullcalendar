@@ -1,0 +1,11 @@
+{
+  "name": "fullcalendar",
+  "version": "1.6.1",
+  "main": [
+    "./build/out/jquery-ui.js",
+    "./build/out/fullcalendar.css",
+    "./build/out/fullcalendar.min.js"
+  ],
+  "dependencies": {
+  }
+}
